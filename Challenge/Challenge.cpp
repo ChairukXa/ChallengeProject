@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 #include<math.h>
-
+// Recommend to Compile & Run With Dev C++
 int main()
 {
 	int a, b, Save, x, y, w, Sum1, Sum2, count;
